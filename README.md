@@ -1,6 +1,6 @@
 # BoulderBlast-Game
 
-Boulder blast is a game that was build using the OpenGL library and C++.
+Boulder blast is a game that was build using the OpenGL library and C++ in XCode.
 
 This game allows a user to run around a maze and once all the blue gems are collected, the exit appears and the user can leave the level 
 to the next level.
